@@ -57,22 +57,22 @@ export function Contact() {
             <ContactLink
               icon={Mail}
               label="Email"
-              value="stefany.lima@example.com"
-              href="mailto:stefany.lima@example.com"
+              value="stefany_mikaelle@hotmail.com"
+              href="mailto:stefany_mikaelle@hotmail.com"
               color="var(--neon-purple)"
             />
             <ContactLink
               icon={Github}
               label="GitHub"
-              value="github.com/stefany"
-              href="https://github.com"
+              value="github.com/StefanyMikaelle"
+              href="https://github.com/StefanyMikaelle"
               color="var(--neon-cyan)"
             />
             <ContactLink
               icon={Linkedin}
               label="LinkedIn"
-              value="linkedin.com/in/stefany"
-              href="https://linkedin.com"
+              value="linkedin.com/in/stefany-mikaelle-da-silva-lima"
+              href="https://www.linkedin.com/in/stefany-mikaelle-da-silva-lima-b71560120/"
               color="var(--neon-blue)"
             />
 

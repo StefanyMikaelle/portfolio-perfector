@@ -89,6 +89,9 @@ export function Experience() {
                       </>
                     )}
                   </p>
+                  {exp.location && (
+                    <p className="font-mono-tech text-[11px] text-muted-foreground/70 mt-1">{exp.location}</p>
+                  )}
                 </div>
 
                 <div className={`pl-12 md:pl-0 ${i % 2 === 0 ? "md:pl-10" : "md:pr-10"}`}>

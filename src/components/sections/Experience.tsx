@@ -4,28 +4,42 @@ import { Briefcase } from "lucide-react";
 
 const experiences = [
   {
-    company: "TechCore Solutions",
-    role: "Backend Software Engineer",
-    period: "2024 — Present",
+    company: "Itaú Unibanco · Full-time",
+    role: "Jr. IT Engineering Analyst",
+    period: "Apr 2024 — Present",
+    location: "São Paulo, Brazil · Hybrid",
     description:
-      "Leading the design of microservice boundaries, owning the API gateway and authentication layer, and mentoring two junior engineers.",
-    tech: ["Kotlin", "Spring Boot", "Kafka", "PostgreSQL", "AWS"],
+      "Back-end developer in the cards division, building robust, scalable and high-performance solutions that support millions of users across Brazil. Key deliveries so far: credit card outstanding balance portability (BACEN regulation) and modernization of the Personal Credit journey for non-account holders to AWS (in progress).",
+    tech: ["Java", "Kotlin", "Python", "AWS", "DevOps", "Software Architecture", "Agile"],
   },
   {
-    company: "Fintech Labs",
-    role: "Backend Developer",
-    period: "2022 — 2024",
+    company: "F1RST Digital Services · Full-time",
+    role: "IT Analyst I",
+    period: "Sep 2023 — Apr 2024",
+    location: "São Paulo, Brazil · Hybrid",
     description:
-      "Built and operated payment and ledger services. Introduced hexagonal architecture and increased deployment frequency 4×.",
-    tech: ["Java", "Spring Boot", "MySQL", "Docker", "Kubernetes"],
+      "Junior Fullstack developer in the Corporate Channels (PJ) division. Backend with Java, Spring Boot, Oracle, Redis, Apache Camel for service orchestration, Apigee and Camunda, with unit test coverage in JUnit and SonarQube. Frontend in Angular/TypeScript using MVVM. Applied BFF, Clean Architecture, Hexagonal Architecture, DDD, TDD and SOLID. Main project: Santander platform for corporate financial control.",
+    tech: [
+      "Java",
+      "Spring Boot",
+      "Oracle",
+      "Redis",
+      "Apache Camel",
+      "Apigee",
+      "Camunda",
+      "Angular",
+      "TypeScript",
+      "JUnit",
+    ],
   },
   {
-    company: "Open Source & Studies",
-    role: "Software Developer",
-    period: "2020 — 2022",
+    company: "F1RST Digital Services",
+    role: "IT Assistant",
+    period: "Oct 2022 — Sep 2023",
+    location: "São Paulo, Brazil",
     description:
-      "Transitioned from Electrical Engineering into software. Shipped side projects, learned the JVM ecosystem in depth, and started contributing to OSS tools.",
-    tech: ["Java", "Kotlin", "REST", "Linux"],
+      "Front-end developer helping the team build and maintain responsive web and mobile screens for Santander's private pension product. Worked with Angular, TypeScript, HTML, CSS and Flame, with unit tests in Karma and Jasmine inside a Micro Frontend (MFE) architecture. Main project: Santander private pension contracting and beneficiary management screens.",
+    tech: ["Angular", "TypeScript", "JavaScript", "HTML", "CSS", "Flame", "Karma", "Jasmine", "MFE"],
   },
 ];
 

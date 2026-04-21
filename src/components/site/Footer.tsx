@@ -34,13 +34,13 @@ export function Footer() {
               Connect
             </h4>
             <div className="flex gap-3">
-              <a href="https://github.com" target="_blank" rel="noreferrer noopener" className="glass-card rounded-lg p-3 hover:text-[color:var(--neon-purple)]" aria-label="GitHub">
+              <a href="https://github.com/StefanyMikaelle" target="_blank" rel="noreferrer noopener" className="glass-card rounded-lg p-3 hover:text-[color:var(--neon-purple)]" aria-label="GitHub">
                 <Github className="h-5 w-5" />
               </a>
-              <a href="https://linkedin.com" target="_blank" rel="noreferrer noopener" className="glass-card rounded-lg p-3 hover:text-[color:var(--neon-blue)]" aria-label="LinkedIn">
+              <a href="https://www.linkedin.com/in/stefany-mikaelle-da-silva-lima-b71560120/" target="_blank" rel="noreferrer noopener" className="glass-card rounded-lg p-3 hover:text-[color:var(--neon-blue)]" aria-label="LinkedIn">
                 <Linkedin className="h-5 w-5" />
               </a>
-              <a href="mailto:stefany@example.com" className="glass-card rounded-lg p-3 hover:text-[color:var(--neon-cyan)]" aria-label="Email">
+              <a href="mailto:stefany_mikaelle@hotmail.com" className="glass-card rounded-lg p-3 hover:text-[color:var(--neon-cyan)]" aria-label="Email">
                 <Mail className="h-5 w-5" />
               </a>
             </div>

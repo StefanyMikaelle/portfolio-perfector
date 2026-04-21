@@ -7,8 +7,9 @@
 import { defineConfig } from "@lovable.dev/vite-tanstack-config";
 
 export default defineConfig({
-  plugins: [react()],
-  build: {
-    outDir: "dist"
+  vite: {
+    build: {
+      outDir: "dist"
+    }
   }
-})
+});
